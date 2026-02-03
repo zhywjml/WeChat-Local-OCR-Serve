@@ -18,7 +18,7 @@
 本项目旨在作为一个通用的 OCR 底层服务，为各种上层应用提供支持。以下是目前基于该服务开发的项目：
 
 1.  **Obsidian OCR 图片识别插件 (Obsidian Local OCR)**  
-    **状态**：🚧 开发中  
+    **状态**：✅ 已发布 | **点击前往插件仓库**: [obsidian-wechat-local-ocr](https://github.com/zhywjml/obsidian-wechat-local-ocr)
     专为 Obsidian 打造的深度集成插件。
     - **交互式选区**：识别后在图片上生成可交互的文字选框。
     - **滑动多选**：支持类似 iOS 相册的滑动批量选择文字。
@@ -105,3 +105,4 @@
 - 用户在使用本工具时产生的一切后果由用户自行承担。
 
 Made with ❤️ by zhywjml
+
