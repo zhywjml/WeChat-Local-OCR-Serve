@@ -1,0 +1,26 @@
+# --- Python 垃圾文件 ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- 核心：忽略巨大的环境和构建目录 ---
+python_env/
+build/
+dist/
+Release/
+Final_Release/
+
+# --- 忽略腾讯的微信OCR组件 (版权敏感，且体积大) ---
+wxocr/
+
+# --- 忽略生成的 EXE 和安装包 ---
+*.exe
+*.spec
+
+# --- IDE 配置文件 (可选) ---
+.vscode/
+.idea/
+
+# --- 其他 ---
+*.log
+*.tmp
