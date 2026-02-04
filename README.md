@@ -13,6 +13,9 @@
 - **🆓 完全免费**：无需申请 API Key，无调用次数限制。
 - **🖥️ 系统集成**：提供系统托盘图标，支持开机自启和内存监控。
 
+### 内存占用：
+<img width="266" height="84" alt="image" src="https://github.com/user-attachments/assets/8a9105b0-f822-4874-86cf-671967bf39b5" />
+
 ## 🔗 生态与应用 (Ecosystem & Integrations)
 
 本项目旨在作为一个通用的 OCR 底层服务，为各种上层应用提供支持。以下是目前基于该服务开发的项目：
@@ -111,6 +114,7 @@
 - 用户在使用本工具时产生的一切后果由用户自行承担。
 
 Made with ❤️ by zhywjml
+
 
 
 
